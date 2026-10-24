@@ -18,10 +18,16 @@
 > You can view the data contained in newer versions of Eoscala/Velkscala at [Confoederatio Dataview](https://dataview.confoederatio.org/).
 
 > [!NOTE]
-> De-facto polity extents: [Atlas 0.5 (GeoJSON)](https://confoederatio.org/data/atlas_0.5b.json) | [Atlas 0.5 (Webview)](https://confoederatio.org/pages/dataview). De jure polity extents: [C-Shapes 2.0](https://icr.ethz.ch/data/cshapes/). Daily resolutions and diplomatic relations available from 3500BC-2025AD for community members.<br>
-> City extents, names, and populations are available at [Stadestér 1.0 (JSON/Raster)](https://doi.org/10.5281/zenodo.17180328).
->
+> This repository is currently being reworked to help deal with large dataset sizes. For more updated READMEs, please see the following links:
+> - Atlas 0.7 (Borders: de jure, de facto): https://datavault.confoederatio.org/s/rPntqXwCxzXg4Bk
+> - Eoscala 1.5 (Economics): https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr
+> - Stadestér (Cities): https://datavault.confoederatio.org/s/QcXSrmcA7qYSmR6
+> - Velkscala 1.0 (Population): https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b
+> 
 > Map editing tools can be installed from [Naissance](https://github.com/ConfoederatioVF/Naissance).
+
+<details>
+  <summary>Legacy README (Eoscala 1.4/Velkscala 0.9):</summary>
 
 ## Abstract:
 
@@ -197,3 +203,5 @@ Regional subdivisions mentioned in papers may be found as follows as unique RGBA
 - WID Subdivisions
 
 Note that custom subdivisions are currently unavailable, though you can script your own analysis and statistical visualisation functions. R statistical tie-ins are available on the main production repository at [https://github.com/Confoederatio/Eoscala-Velkscala-Production](https://github.com/Confoederatio/Eoscala-Velkscala-Production).
+  
+</details>

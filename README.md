@@ -44,7 +44,7 @@ For socioeconomic researchers, the following open datasets may also prove valuab
 
 1. In certain cases we have chosen to preserve the statistical borders used by historians or statisticians in secondary/aggregate sources for academic purposes. Some borders may therefore be anachronistic.
 
-### Data Structure.
+### File Structure.
 
 Percentage data is normalised from 0-1.
 
@@ -88,7 +88,7 @@ Percentage data is normalised from 0-1.
     - `not_in_work_f/m/t_<year>.png` - Total Female/Male/Total Workforce not in work.
 
 <details>
- <summary><h2>Methodology (Summaries).</h2></summary>
+ <summary><h2>Methodology.</h2></summary>
  <details open>
 <summary><h3>GDP (Nominal) (FY$2000)</h3></summary>
 
@@ -253,7 +253,7 @@ Covariates are used for both consistent training and hindcasting.
 
 Estimated sectoral breakdowns per gridcell (agriculture/manufacturing/services/informal labour). Note that labour structures without corresponding state capacity are typically treated as informal labour. This includes non-sedentary work. Those labelled __Not in Work__ are the residual for LFPR, i.e. `1 - LFPR.`
 
-> [!WARNING]
+> ⚠️ **Warning.**
 > Uniquely amongst Confoederal datasets, source work here currently involves the encoding of **magic numbers**, which we will be keen to remove in the future. Problem?
 
 #### Methodology

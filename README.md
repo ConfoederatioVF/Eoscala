@@ -1,4 +1,11 @@
-# Eoscala 1.5
+# Eoscala
+
+<div align = "center">
+<img src = "https://i.postimg.cc/3ND2B1zL/crd-coat-of-arms-logo.png" height = "64">
+
+[![Join our community (Element Matrix)!](https://img.shields.io/badge/chat-on%20matrix-51bb9c?style=for-the-badge)](https://matrix.to/#/#confoederatio:matrix.confoederatio.org) [![Join our community!](https://img.shields.io/discord/548994743925997570?label=Discord&style=for-the-badge)](https://discord.gg/89kQY2KFQz) ![](https://img.shields.io/github/languages/code-size/ConfoederatioVF/Eoscala?style=for-the-badge)
+
+</div>
 
 > [!NOTE]
 > You can download Eoscala data from [Confoederatio Datavault](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr). It can be viewed at https://dataview.confoederatio.org/.
@@ -24,7 +31,7 @@ For socioeconomic researchers, the following open datasets may also prove valuab
 1. Stadestér (Cities, part of Velkscala) | [Projects (1.1)](https://projects.confoederatio.org/c/Stadester)
 2. Velkscala (Demographics) | [Datavault (1.0)](https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b)
 3. Eoscala (Economics) | [Datavault (1.5)](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr)
-4. Atlas (Polities) | [Datavault (0.6)](https://datavault.confoederatio.org/s/aBeY4JP4QGFjqRL)
+4. Atlas (Polities) | [Datavault (0.7)](https://datavault.confoederatio.org/s/aBeY4JP4QGFjqRL)
 
 ⚠️ **Data Caveats.**
 

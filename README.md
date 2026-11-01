@@ -15,7 +15,10 @@
 </div>
 
 > [!NOTE]
-> You can download Eoscala data from [Confoederatio Datavault](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr). It can be viewed at https://dataview.confoederatio.org/.
+> You can download Eoscala data from [Confoederatio Datavault](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr). It can be viewed at https://dataview.confoederatio.org
+
+> [!WARNING]
+> Professions currently use original estimates further back. If you would prefer, CAD-Preservés has geospatialised employment datasets from [BR Mitchell's _International Historical Statistics_](https://github.com/CAD-Preserves/br-mitchell) from 1750-2000, and the [Global Collaboratory on the History of Labour Relations](https://github.com/CAD-Preserves/global-collaboratory) for 1500-2000.
 
 ## Abstract.
 

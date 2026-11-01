@@ -2,7 +2,14 @@
 
 <div align = "center">
 <img src = "https://i.postimg.cc/3ND2B1zL/crd-coat-of-arms-logo.png" height = "64">
-
+<br><br>
+<img src = "https://i.postimg.cc/hcDW33sz/81-eoscala-geopng.png" width = "100%">
+<br><br>
+<div align = "center">
+ Figure 1. GDP PPP, GDP PPP per capita, Gini, and Net Income estimates for 1780AD.
+</div>
+<br>
+ 
 [![Join our community (Element Matrix)!](https://img.shields.io/badge/chat-on%20matrix-51bb9c?style=for-the-badge)](https://matrix.to/#/#confoederatio:matrix.confoederatio.org) [![Join our community!](https://img.shields.io/discord/548994743925997570?label=Discord&style=for-the-badge)](https://discord.gg/89kQY2KFQz) ![](https://img.shields.io/github/languages/code-size/ConfoederatioVF/Eoscala?style=for-the-badge)
 
 </div>

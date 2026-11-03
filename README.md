@@ -14,7 +14,7 @@
 
 ## Abstract.
 
-**Eoscala** is part of the **Naissance World Model**, a digital twin of human society from 10000BC-2025AD.
+**Eoscala** is part of the **Naissance World Model**, a digital model of human society from 10000BC-2025AD.
 - E-mail: [vf@confoederatio.org](mailto:vf@confoederatio.org)
 - Dataview: https://dataview.confoederatio.org
 - <ins>Download:</ins>

@@ -15,14 +15,12 @@
 ## Abstract.
 
 - E-mail: [vf@confoederatio.org](mailto:vf@confoederatio.org)
+- Dataview: https://dataview.confoederatio.org/
 - <ins>Download:</ins>
 - - Stadestér (Cities, part of Velkscala) | [Projects (1.1)](https://projects.confoederatio.org/c/Stadester)
 - - Velkscala (Demographics) | [Datavault (1.0)](https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b)
 - - **Eoscala (Economics)** | [Datavault (1.5)](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr)
 - - Atlas (Polities) | [Datavault (0.7)](https://datavault.confoederatio.org/s/rPntqXwCxzXg4Bk)
-
-> [!NOTE]
-> You can download Eoscala data from [Confoederatio Datavault](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr). It can be viewed at https://dataview.confoederatio.org
 
 > [!WARNING]
 > Professions currently use original estimates further back. If you would prefer, CAD-Preservés has geospatialised employment datasets from [BR Mitchell's _International Historical Statistics_](https://github.com/CAD-Preserves/br-mitchell) from 1750-2000, and the [Global Collaboratory on the History of Labour Relations](https://github.com/CAD-Preserves/global-collaboratory) for 1500-2000.

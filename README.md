@@ -5,14 +5,21 @@
 <br><br>
 <img src = "https://i.postimg.cc/hcDW33sz/81-eoscala-geopng.png" width = "100%">
 <br><br>
-<div align = "center">
- Figure 1. GDP PPP, GDP PPP per capita, Gini, and Net Income estimates for 1780AD.
-</div>
+<div align = "center">Figure 1. GDP PPP, GDP PPP per capita, Gini, and Net Income estimates for 1780AD.</div>
 <br>
  
 [![Join our community (Element Matrix)!](https://img.shields.io/badge/chat-on%20matrix-51bb9c?style=for-the-badge)](https://matrix.to/#/#confoederatio:matrix.confoederatio.org) [![Join our community!](https://img.shields.io/discord/548994743925997570?label=Discord&style=for-the-badge)](https://discord.gg/89kQY2KFQz) ![](https://img.shields.io/github/languages/code-size/ConfoederatioVF/Eoscala?style=for-the-badge)
 
 </div>
+
+## Abstract.
+
+- E-mail: [vf@confoederatio.org](mailto:vf@confoederatio.org)
+- <ins>Download:</ins>
+- - Stadestér (Cities, part of Velkscala) | [Projects (1.1)](https://projects.confoederatio.org/c/Stadester)
+- - Velkscala (Demographics) | [Datavault (1.0)](https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b)
+- - **Eoscala (Economics)** | [Datavault (1.5)](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr)
+- - Atlas (Polities) | [Datavault (0.7)](https://datavault.confoederatio.org/s/rPntqXwCxzXg4Bk)
 
 > [!NOTE]
 > You can download Eoscala data from [Confoederatio Datavault](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr). It can be viewed at https://dataview.confoederatio.org
@@ -20,34 +27,13 @@
 > [!WARNING]
 > Professions currently use original estimates further back. If you would prefer, CAD-Preservés has geospatialised employment datasets from [BR Mitchell's _International Historical Statistics_](https://github.com/CAD-Preserves/br-mitchell) from 1750-2000, and the [Global Collaboratory on the History of Labour Relations](https://github.com/CAD-Preserves/global-collaboratory) for 1500-2000.
 
-## Abstract.
+**Eoscala** is a geospatial database of economic indicators from 10000BC-2025AD, at 5-arcmin resolution. Most rasters are WGS84 Equirectangular, 4320x2160, and split into 128 timesteps: 1000-year intervals from 10000BC to 1AD, 100-year intervals from 1AD-1700AD, 10-year intervals from 1700AD-1950AD, and 1-year intervals from 1950AD-2025AD. Cells with <1 inhabitant are excluded from per capita calculations.
 
-This is the testing and validation repository for **Eoscala**, a geospatial database on economic indicators and national accounts from 10000BC to 2025AD. Most of this work is achieved via proxy modelling. Figures and methods reports are prepared here, sorted by version.
+This is the testing and validation repository for **Eoscala**, a geospatial database on economic indicators and national accounts from 10000BC to 2025AD. Most of this work is achieved via proxy modelling. Figures and methods reports are prepared here, sorted by version. In certain cases we have chosen to preserve the statistical borders used by historians or statisticians in secondary/aggregate sources for academic purposes. Some borders may therefore be anachronistic.
 
 For prior versions of Eoscala/Velkscala before 1.5/1.0, check the <ins>Releases</ins> tab.
 
-## Data Structure.
-
-Geospatial database of economic indicators from 10000BC-2025AD, at 5-arcmin resolution. Most rasters are WGS84 Equirectangular, 4320×2160, and split into 127 timesteps: 1000-year intervals from 10000BC to 1AD, 100-year intervals from 1AD-1700AD, at 10-year intervals from 1700AD to 1950AD, and at 1-year intervals from 1950AD-2025AD. Cells with <1 inhabitant are excluded from per capita calculations.
-
-Since rasters are encoded as GeoPNG, `app.R` contains an R Shiny app able to decode GeoPNGs. For those without access to R Studio, you may also use the web viewer at [Confoederatio Dataview](https://dataview.confoederatio.org/).
-
- The encoding of each set of rasters is given in **Data Structure**. All monetary units are given in Fiscal Year 2000 International Dollars (FY$2000). LCU conversions are available in `national_accounts/`.
-
-**Note.**
-
-For socioeconomic researchers, the following open datasets may also prove valuable:
-
-1. Stadestér (Cities, part of Velkscala) | [Projects (1.1)](https://projects.confoederatio.org/c/Stadester)
-2. Velkscala (Demographics) | [Datavault (1.0)](https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b)
-3. Eoscala (Economics) | [Datavault (1.5)](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr)
-4. Atlas (Polities) | [Datavault (0.7)](https://datavault.confoederatio.org/s/rPntqXwCxzXg4Bk)
-
-⚠️ **Data Caveats.**
-
-1. In certain cases we have chosen to preserve the statistical borders used by historians or statisticians in secondary/aggregate sources for academic purposes. Some borders may therefore be anachronistic.
-
-### File Structure.
+## File Structure.
 
 Percentage data is normalised from 0-1.
 

@@ -129,8 +129,6 @@ Covariates are used for both consistent training and hindcasting.
 - [Velkscala 1.0](https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b): `popc_`, `popd_`, `rurc_`, `urbc_`
 - Delta covariates (annualised changes in Eoscala/Velkscala rasters).
 
-**Confused about how covariates were calculated?** Click the corresponding mapmode to highlight their methodology.
-
 </details>
 
 <details open>
@@ -202,8 +200,6 @@ Covariates are used for both consistent training and hindcasting.
 - [Eoscala 1.5](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr): `gdp_nominal`, `gdp_pc`, `gdp_ppp`, `gdp_ppp_pc`
 - Delta covariates (annualised changes in Eoscala/Velkscala rasters).
 
-**Confused about how covariates were calculated?** Click the corresponding mapmode to highlight their methodology.
-
 </details>
 
 <details open>
@@ -232,8 +228,6 @@ Covariates are used for both consistent training and hindcasting.
 - [HYDE 3.3 (LU)](https://landuse.sites.uu.nl/hyde-project/): `conv_rangeland`, `cropland`, `grazing`, `ir_norice`, `ir_rice`, `pasture`, `rangeland`, `rf_norice`, `rf_rice`, `shifting`, `tot_irri`, `tot_rainfed`, `tot_rice`, `uopp_`
 - [Velkscala 1.0](https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b): `popc_`, `popd_`, `rurc_`, `urbc_`
 - [Eoscala 1.5](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr): `discretionary_income`, `disposable_income`, `gdp_nominal`, `gdp_pc`, `gdp_ppp`, `gdp_ppp_pc`, `net_income`, `net_wealth`
-
-**Confused about how covariates were calculated?** Click the corresponding mapmode to highlight their methodology.
 
 </details>
 
@@ -270,8 +264,6 @@ Covariates are used for both consistent training and hindcasting. Superlearners 
 - [Eoscala 1.5](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr): `discretionary_income`, `disposable_income`, `gdp_nominal`, `gdp_pc`, `gdp_ppp`, `gdp_ppp_pc`, `gini`, `lfpr_f`, `lfpr_m`, `net_income`, `net_wealth`
 - Delta covariates (annualised changes in Eoscala/Velkscala rasters).
 
-**Confused about how covariates were calculated?** Click the corresponding mapmode to highlight their methodology.
-
 </details>
 
 <details open>
@@ -307,8 +299,6 @@ Covariates are used for both consistent training and hindcasting.
 - [Velkscala 1.0](https://datavault.confoederatio.org/s/44Pfgt7ya8wE77b): `popc_`, `popd_`, `rurc_`, `urbc_`
 - [Eoscala 1.5](https://datavault.confoederatio.org/s/2Kytdej7ABpw4rr): `gdp_nominal`, `gdp_pc`, `gdp_ppp`, `gdp_ppp_pc`, `gini`
 - Delta covariates (annualised changes in Eoscala/Velkscala rasters).
-
-**Confused about how covariates were calculated?** Click the corresponding mapmode to highlight their methodology.
 
 </details>
 </details>
